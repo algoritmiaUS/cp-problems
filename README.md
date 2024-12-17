@@ -3,6 +3,25 @@
 Repositorio con las soluciones de los diferentes jueces online desarrolladas por miembros del [Club de Algoritmia de la Universidad de Sevilla](https://clubalgoritmiaus.es/).
 
 
+# Estadísticas de Problemas Resueltos
+
+<!-- START_STATS -->
+| Juez Online | Problemas Resueltos | C | C++ | C# | Python | Haskell |
+| --- | --- | --- | --- | --- | --- | --- |
+| UVA | 1 | 0 | 0 | 0 | 1 | 0 |
+| CSES | 6 | 0 | 0 | 0 | 2 | 4 |
+| Leetcode | 55 | 0 | 0 | 0 | 55 | 0 |
+| USACO | 1 | 0 | 0 | 0 | 0 | 1 |
+| SPOJ | 1 | 0 | 0 | 0 | 1 | 0 |
+| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 |
+| CodeChef | 1 | 0 | 0 | 0 | 1 | 0 |
+| Codeforces | 17 | 0 | 1 | 0 | 6 | 10 |
+| HackerRank | 7 | 0 | 0 | 0 | 5 | 2 |
+| LightOJ | 1 | 0 | 0 | 0 | 1 | 0 |
+| Gym | 1 | 0 | 0 | 0 | 1 | 0 |
+
+<!-- END_STATS -->
+
 ## FAQ
 
 <details>
