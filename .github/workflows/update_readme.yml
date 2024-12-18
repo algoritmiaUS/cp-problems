@@ -1,0 +1,34 @@
+name: Actualizar estadísticas del README
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+      
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+
+      - name: Ejecutar script para actualizar README.md
+        run: python stats.py
+
+      - name: Commit y push de los cambios
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar estadísticas en README"
+          branch: main
+          file_pattern: README.md
