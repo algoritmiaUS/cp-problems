@@ -19,7 +19,7 @@ Repositorio con las soluciones de los diferentes jueces online desarrolladas por
 | HackerRank | 7 | 0 | 0 | 0 | 5 | 2 |
 | LightOJ | 1 | 0 | 0 | 0 | 1 | 0 |
 | Gym | 1 | 0 | 0 | 0 | 1 | 0 |
-
+| Daily Coding Problems | 28 | 0 | 0 | 0 | 28 | 0 |
 <!-- END_STATS -->
 
 ## FAQ
