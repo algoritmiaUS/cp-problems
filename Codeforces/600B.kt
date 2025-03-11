@@ -1,6 +1,6 @@
-# Problem: Queries about less or equal elements
-# Solution by Kenny Jesús Flores Huamán
-# url: https://codeforces.com/problemset/problem/600/B
+// Problem: Queries about less or equal elements
+// Solution by Kenny Jesús Flores Huamán
+// url: https://codeforces.com/problemset/problem/600/B
 
 fun binary_search(numbers: List<Int>, target: Int): Int {
     var left = 0
