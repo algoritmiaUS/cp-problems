@@ -8,17 +8,20 @@ Repositorio con las soluciones de los diferentes jueces online desarrolladas por
 <!-- START_STATS -->
 | Juez Online | Problemas Resueltos | C | C++ | C# | Python | Haskell |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gym | 1 | 0 | 0 | 0 | 1 | 0 |
-| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 |
-| CodeChef | 1 | 0 | 0 | 0 | 1 | 0 |
-| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 |
-| USACO | 2 | 0 | 0 | 0 | 1 | 1 |
-| Codeforces | 23 | 0 | 1 | 0 | 11 | 11 |
-| Leetcode | 55 | 0 | 0 | 0 | 55 | 0 |
-| CSES | 6 | 0 | 0 | 0 | 2 | 4 |
-| UVA | 5 | 0 | 1 | 0 | 3 | 1 |
+| Codeforces | 32 | 0 | 1 | 0 | 19 | 11 |
 | HackerRank | 7 | 0 | 0 | 0 | 5 | 2 |
+| kattis | 32 | 0 | 0 | 0 | 31 | 0 |
+| Leetcode | 57 | 0 | 0 | 0 | 57 | 0 |
+| USACO | 4 | 0 | 0 | 0 | 3 | 1 |
 | SPOJ | 1 | 0 | 0 | 0 | 1 | 0 |
+| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 |
+| CSES | 17 | 0 | 7 | 0 | 6 | 4 |
+| CodeChef | 1 | 0 | 0 | 0 | 1 | 0 |
+| Gym | 1 | 0 | 0 | 0 | 1 | 0 |
+| UVA | 6 | 0 | 1 | 0 | 4 | 1 |
+| YS | 1 | 0 | 0 | 0 | 1 | 0 |
+| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 |
+| LightOJ | 4 | 0 | 1 | 0 | 1 | 0 |
 
 <!-- END_STATS -->
 

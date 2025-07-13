@@ -278,3 +278,5 @@ Cargo.lock
 ## 
 input.txt
 main
+*.in
+*.out
