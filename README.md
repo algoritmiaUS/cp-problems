@@ -6,22 +6,23 @@ Repositorio con las soluciones de los diferentes jueces online desarrolladas por
 # Estadísticas de Problemas Resueltos
 
 <!-- START_STATS -->
-| Juez Online | Problemas Resueltos | C | C++ | C# | Python | Haskell |
-| --- | --- | --- | --- | --- | --- | --- |
-| Codeforces | 32 | 0 | 1 | 0 | 19 | 11 |
-| HackerRank | 7 | 0 | 0 | 0 | 5 | 2 |
-| kattis | 32 | 0 | 0 | 0 | 31 | 0 |
-| Leetcode | 57 | 0 | 0 | 0 | 57 | 0 |
-| USACO | 4 | 0 | 0 | 0 | 3 | 1 |
-| SPOJ | 1 | 0 | 0 | 0 | 1 | 0 |
-| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 |
-| CSES | 17 | 0 | 7 | 0 | 6 | 4 |
-| CodeChef | 1 | 0 | 0 | 0 | 1 | 0 |
-| Gym | 1 | 0 | 0 | 0 | 1 | 0 |
-| UVA | 6 | 0 | 1 | 0 | 4 | 1 |
-| YS | 1 | 0 | 0 | 0 | 1 | 0 |
-| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 |
-| LightOJ | 4 | 0 | 1 | 0 | 1 | 0 |
+| Juez Online | Problemas Resueltos | C | C++ | C# | Python | Haskell | Kotlin |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 | 0 |
+| CSES | 17 | 0 | 7 | 0 | 6 | 4 | 0 |
+| CodeChef | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
+| Codeforces | 37 | 0 | 6 | 0 | 19 | 11 | 1 |
+| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 | 0 |
+| Gym | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| HackerRank | 8 | 0 | 1 | 0 | 5 | 2 | 0 |
+| Leetcode | 57 | 0 | 0 | 0 | 57 | 0 | 0 |
+| LightOJ | 4 | 0 | 1 | 0 | 1 | 0 | 2 |
+| SPOJ | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| USACO | 7 | 0 | 3 | 0 | 3 | 1 | 0 |
+| UVA | 8 | 0 | 2 | 0 | 5 | 1 | 0 |
+| YS | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+| kattis | 35 | 0 | 2 | 0 | 31 | 0 | 0 |
+| EOlymp | 4 | 0 | 1 | 0 | 1 | 0 | 0 |
 
 <!-- END_STATS -->
 

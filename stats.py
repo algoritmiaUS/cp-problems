@@ -8,6 +8,7 @@ languages = {
     ".cs": "C#",
     ".py": "Python",
     ".hs": "Haskell",
+    ".kt": "Kotlin",
 }
 
 # Estructura de datos inicial
