@@ -8,21 +8,21 @@ Repositorio con las soluciones de los diferentes jueces online desarrolladas por
 <!-- START_STATS -->
 | Juez Online | Problemas Resueltos | C | C++ | C# | Python | Haskell | Kotlin |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| AceptaElReto | 16 | 0 | 0 | 0 | 16 | 0 | 0 |
-| CSES | 17 | 0 | 7 | 0 | 6 | 4 | 0 |
-| CodeChef | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
-| Codeforces | 37 | 0 | 6 | 0 | 19 | 11 | 1 |
-| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 | 0 |
-| Gym | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| HackerRank | 8 | 0 | 1 | 0 | 5 | 2 | 0 |
-| Leetcode | 57 | 0 | 0 | 0 | 57 | 0 | 0 |
-| LightOJ | 4 | 0 | 1 | 0 | 1 | 0 | 2 |
-| SPOJ | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| USACO | 7 | 0 | 3 | 0 | 3 | 1 | 0 |
-| UVA | 8 | 0 | 2 | 0 | 5 | 1 | 0 |
+| CSES | 30 | 0 | 18 | 0 | 6 | 4 | 0 |
+| Gym | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
+| Codeforces | 39 | 0 | 8 | 0 | 19 | 11 | 1 |
+| AceptaElReto | 19 | 0 | 1 | 0 | 16 | 0 | 0 |
 | YS | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
-| kattis | 35 | 0 | 2 | 0 | 31 | 0 | 0 |
-| EOlymp | 4 | 0 | 1 | 0 | 1 | 0 | 0 |
+| DailyCodingProblems | 28 | 0 | 0 | 0 | 28 | 0 | 0 |
+| USACO | 8 | 0 | 4 | 0 | 3 | 1 | 0 |
+| LightOJ | 4 | 0 | 1 | 0 | 1 | 0 | 2 |
+| Leetcode | 58 | 0 | 1 | 0 | 57 | 0 | 0 |
+| CodeChef | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
+| kattis | 33 | 0 | 2 | 0 | 31 | 0 | 0 |
+| EOlymp | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
+| UVA | 13 | 0 | 6 | 0 | 6 | 1 | 0 |
+| SPOJ | 2 | 0 | 1 | 0 | 1 | 0 | 0 |
+| HackerRank | 8 | 0 | 1 | 0 | 5 | 2 | 0 |
 
 <!-- END_STATS -->
 
